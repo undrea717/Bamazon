@@ -2,7 +2,7 @@
 
 Here are the instruction for the assignment:
 
-Challenge #1: Customer View (Minimum Requirement)
+Challenge #1: Customer View
 
 Create a MySQL Database called bamazon.
 Then create a Table inside of that database called products.
